@@ -1,0 +1,45 @@
+
+
+section{
+  margin-top: 60px;
+  padding: 50px;
+  color:white;
+  font-family: 'Parisienne', cursive;
+  text-align: center;
+  font-size: 60%;
+
+
+}
+h5,h6{
+  color:white;
+
+}
+h6:hover{
+  color:#F0A500;
+}
+h5:hover{
+  color:#85F4FF;
+}
+
+a {
+  text-decoration: none;
+
+}
+/* ID'S */
+#twitter {
+
+  
+  padding: 10px;
+}
+#insta {
+
+
+  padding: 10px;
+}
+#anime {
+
+
+}
+.insta:hover{
+  color:#019267;
+}
